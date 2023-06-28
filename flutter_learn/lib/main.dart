@@ -54,7 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: Text("Güncelle"),
               ),
               PopupMenuItem(
-                child: Text("Sil"),
+                child: Text("Sudeeeeeeee"),
               ),
             ]
           )
